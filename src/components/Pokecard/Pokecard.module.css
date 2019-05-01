@@ -1,0 +1,16 @@
+.card {
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+    border-width: 5px;
+    width: 140px;
+    height: 140px;
+   
+    border: 1px solid #666;
+    border-radius: 4px;
+    box-shadow: 0 0 3px #666;
+    margin: 10px;
+
+
+}
+

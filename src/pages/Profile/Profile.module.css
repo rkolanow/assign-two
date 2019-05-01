@@ -1,0 +1,32 @@
+
+.leftcolumn {
+    float: left;
+    width: 40%;
+    
+  }
+  
+  .rightcolumn {
+    float: right;
+    width: 60%;
+    
+  }
+
+ .middlecolumn {
+   width: 40%;
+ }
+
+  .content {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    margin-left: 50px;
+    background: white;
+    padding-left: 25px;
+    border: 1px solid #666;
+    border-radius: 4px;
+    box-shadow: 0 0 3px #666;
+    
+    padding-bottom: 60px;
+    min-height: 150px !important;
+    
+  }
